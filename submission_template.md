@@ -3,7 +3,7 @@
 ## Candidate
 
 - Name: Tesfamichael Abebe
-- Approximate time spent: 90 minutes
+- Approximate time spent: 47 minutes
 
 ---
 
